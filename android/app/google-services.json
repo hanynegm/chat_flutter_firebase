@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922149111329",
+    "project_id": "messageme-app-96f3d",
+    "storage_bucket": "messageme-app-96f3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922149111329:android:1aa5223550199fbabdc560",
+        "android_client_info": {
+          "package_name": "com.learnflutter.chat_flutter_firbase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJDlzJWxNpQqVXUyHi7deczD5I1vyuBUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
